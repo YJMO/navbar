@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/recaudos_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/recaudos_icon"
+        android:title="Recaudos" />
+    <item
+        android:id="@+id/saldos_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/saldos_icon"
+        android:title="Saldos" />
+    <item
+        android:id="@+id/caja_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/caja_icon"
+        android:title="Caja" />
+</menu>
